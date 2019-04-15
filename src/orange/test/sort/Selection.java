@@ -1,4 +1,4 @@
-package orange.test;
+package orange.test.sort;
 
 import edu.princeton.cs.algs4.StdOut;
 
