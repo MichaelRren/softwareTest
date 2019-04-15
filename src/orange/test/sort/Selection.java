@@ -1,6 +1,7 @@
 package orange.test.sort;
 
 import edu.princeton.cs.algs4.StdOut;
+//选择排序
 
 public class Selection {
     private static boolean less(Comparable v, Comparable w)
